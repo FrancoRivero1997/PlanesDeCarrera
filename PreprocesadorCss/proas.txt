@@ -1,0 +1,7 @@
+[PROA-19073] Mejoras en manejo de SetUpLead en VentaWeb - Jira (atlassian.net)
+proa 18740
+
+rama mencionada,
+busco respoistorio proa 15743 (pablo)
+
+dos cambios subidos home.vue , app.vue

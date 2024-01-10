@@ -1,0 +1,35 @@
+Para instalar un PreProcesador de CSS
+
+1) Puede ser Sass  : https://sass-lang.com/install/ , desde su pagina descargar la linea de comando para luego insertarla en consola:
+en consola "npm install -g sass"
+
+2) Ver que version se instalo "sass --version"
+
+3) Creamos una carpeta donde le vamos a crear un archivo
+*"index.html" 
+* "style.sass" o "style.scss"
+
+4) Compilar la solucion para convertirlo en un fichero de estilos correcto.
+
+5) Se crea la estructura basica de un html, con algun div, titulos, etc etc etc.
+
+6) "Se instala la extensions de Sass desde el marketplace de Visaul estudio"
+
+7)Al html se le coloca esta linea de codigo:
+<link rel="stylesheet" type="text/sass" href="style.sass"> para hacer referencia al archivo sass pero aun no va a tomar los cambios que se hagan.
+
+8) Hay que entrar a la carpeta del proyecto desde consola
+C:\Users\SHIFTA-0134\Desktop\Plan 2024> sass --watch style.sass y queremos que se convierta en un style.css.
+
+(Donde va a tirar un error) entonces vamos al nombre del archivo de style.sass y le cambiamos por style.scss.
+
+9) utilizamos el mismo comando  sass --watch style.scss style.css
+
+y modificamos <link rel="stylesheet" type="text/sass" href="style.css">.
+
+Se van a crear dos archivos automaticos style.css y otro style.css.map
+
+
+
+
+

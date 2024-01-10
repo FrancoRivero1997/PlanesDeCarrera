@@ -1,0 +1,16 @@
+// en css se resuelve .RazonDelPlan p {} .RazonDelPlan H2{}
+// en sass se utiliza anidacion
+.RazonDelPlan {
+    h2{
+        color: Red;
+        font-family: Georgia, 'Times New Roman', Times, serif;
+    }
+
+    p{
+        color: darkmagenta;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        text-decoration: underline;
+    }
+}
+
+//Se puede incluir dentro de un fichero de Sasss otro ficheros de Sass, se pueden tener multiples ficheros

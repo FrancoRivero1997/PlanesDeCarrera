@@ -1,0 +1,85 @@
+// EN CONSOLA C:\Users\SHIFTA-0134\Desktop\Plan 2024\PreprocesadorCss>sass --watch style.scss style.css
+@use 'anidacion';
+
+//Variables
+$color-principal: orange;
+$color-letra: blue;
+
+body {
+    background: $color-principal;
+}
+
+
+h1 {
+    color: $color-letra;
+}
+
+p {
+    color: $color-letra;
+}
+
+.tabla1 {
+    background-color: black;
+}
+.tabla2 {
+    background-color: red;
+    color: white
+}
+.tb{
+    background-color: green;
+    color: white
+}
+
+// // en css se resuelve .RazonDelPlan p {} .RazonDelPlan H2{}
+// // en sass se utiliza anidacion
+// Se puede incluir en style.scss los estilos de abajo o se crea un fichero "_anidacion.scss" y se lo coloca ahi
+// .RazonDelPlan {
+//     h2{
+//         color: Red;
+//         font-family: Georgia, 'Times New Roman', Times, serif;
+//     }
+
+//     p{
+//         color: Pink;
+//         font-family: Verdana, Geneva, Tahoma, sans-serif;
+//         text-decoration: underline;
+//     }
+// }
+
+
+//Mixins (Son como funciones)
+@mixin plan_deCarreraExitoso($fondo: brown, $color: $color-letra ){
+    background-color:  $fondo;
+    border: 4px solid black;
+    box-shadow: 0px 0px 2px black;
+    color: $color;
+    margin: 20px;
+}
+
+.RazonDelPlan{
+    @include plan_deCarreraExitoso($fondo: yellow)
+}
+
+
+.TemaDelPlan{
+    @include plan_deCarreraExitoso($fondo: Red, $color: orange)
+}
+
+// .TemaDelPlan, .Dami_Aprobame{  @include plan_deCarreraExitoso() } tambien se puede utlizar de esta forma
+
+.Dami_Aprobame{
+    @include plan_deCarreraExitoso($fondo: lightgray, $color: darkmagenta)
+}
+
+.Dami_Aprobame2{
+    @include plan_deCarreraExitoso($fondo: green, $color: lightblue)
+}
+
+
+
+//Operadores nos permiten hacer operaciones matematicas ennuestra hoja de estilos.
+.RazonDelPlan, .Dami_Aprobame2 {
+    width: 100px + 300px;
+
+}
+

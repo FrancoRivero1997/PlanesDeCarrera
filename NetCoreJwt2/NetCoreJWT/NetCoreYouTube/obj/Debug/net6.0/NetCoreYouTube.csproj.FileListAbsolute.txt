@@ -1,0 +1,76 @@
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\appsettings.Development.json
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\appsettings.json
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\NetCoreYouTube.exe
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\NetCoreYouTube.deps.json
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\NetCoreYouTube.runtimeconfig.json
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\NetCoreYouTube.dll
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\NetCoreYouTube.pdb
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Microsoft.OpenApi.dll
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.csproj.AssemblyReference.cache
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.GeneratedMSBuildEditorConfig.editorconfig
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.AssemblyInfoInputs.cache
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.AssemblyInfo.cs
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.csproj.CoreCompileInputs.cache
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.MvcApplicationPartsAssemblyInfo.cs
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.MvcApplicationPartsAssemblyInfo.cache
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\staticwebassets.build.json
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\staticwebassets.development.json
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\scopedcss\bundle\NetCoreYouTube.styles.css
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.csproj.CopyComplete
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.dll
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\refint\NetCoreYouTube.dll
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.pdb
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.genruntimeconfig.cache
+D:\Software Angels\Proyectos Youtube\Net core\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\ref\NetCoreYouTube.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\appsettings.json
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\NetCoreYouTube.exe
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\NetCoreYouTube.deps.json
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\NetCoreYouTube.runtimeconfig.json
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\NetCoreYouTube.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\NetCoreYouTube.pdb
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.csproj.AssemblyReference.cache
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.AssemblyInfoInputs.cache
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.AssemblyInfo.cs
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.csproj.CoreCompileInputs.cache
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\staticwebassets\msbuild.NetCoreYouTube.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\staticwebassets\msbuild.build.NetCoreYouTube.props
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.NetCoreYouTube.props
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.NetCoreYouTube.props
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\scopedcss\bundle\NetCoreYouTube.styles.css
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.csproj.CopyComplete
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\refint\NetCoreYouTube.dll
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.pdb
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\NetCoreYouTube.genruntimeconfig.cache
+C:\Users\SHIFTA-0134\Desktop\NetCoreJwt2\NetCoreYouTube\NetCoreYouTube\obj\Debug\net6.0\ref\NetCoreYouTube.dll
